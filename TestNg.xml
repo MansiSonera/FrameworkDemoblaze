@@ -1,0 +1,7 @@
+<suite name="Demoblaze" parallel="tests">
+<test name="Testng" allow-retun-values="true">
+<classes>
+<class name="testpackage.Runtest"/>
+</classes>  
+</test>
+</suite>
